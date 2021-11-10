@@ -9,7 +9,7 @@ adj_list={      # Realtionships between nodes
         'G':['E','H'],
         'H':['G','F']
         }
-traverse = []       # For saving the directions for each step
+traverse = []       # For saving pass
 visited={}          # To check if the node is visited of not
 root = {}           # To know the parent of each node
 level={}            # To know the level of each node
