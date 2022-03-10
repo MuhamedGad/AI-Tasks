@@ -1,2 +1,2 @@
 # AI-Tasks
-the tasks for the AI  first term
+These are the tasks of the AI course in the 4th year in College
